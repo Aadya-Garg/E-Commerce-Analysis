@@ -1,6 +1,8 @@
 # E-Commerce
--Created analytical and interactive dashboards in Power BI to analyze performance of a leading e-commerce client, driving data-driven     decision making. 
+◦ Conducted multi-faceted business analysis by designing dynamic and analytical e-commerce dashboards, aimed at
+improving performance, customer engagement, driving revenue growth, and mitigating risk.
 
--Also involved data cleaning and documentation to derive valuable insights and answer key business questions.
+◦ Transformed 160,000 data entries into 40 key performance indicators (KPIs) and insights that spanned various aspects of
+customer behavior, price variations, sales/revenue, and promotion effects.
 
-(Low interactivity due to PDF Format)
+◦ Applied rigorous ETL processes encompassing data cleaning, preparation, modeling, analysis, and visualization.
